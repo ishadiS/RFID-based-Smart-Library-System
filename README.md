@@ -4,7 +4,7 @@ This is an application used to automatically store library records. It is an RFI
 <br>
 
 In this RFID-based library automation system, we utilize Java, MySQL, and RFID technologies.<br> 
-We used RFID Readers & RFID Cards, *RFID Cards as Membership_ID (smart ID)* <br>
+We used RFID Readers & RFID Cards, *RFID Cards as Membership_ID (smart ID).* <br>
 
 
 # 🧐 Features:
